@@ -1,0 +1,13 @@
+D:\Алексей\Проекты\на_C#\PrakticheskoeZadanie\PrakticheskoeZadanie\bin\Debug\netcoreapp3.1\PrakticheskoeZadanie.exe
+D:\Алексей\Проекты\на_C#\PrakticheskoeZadanie\PrakticheskoeZadanie\bin\Debug\netcoreapp3.1\PrakticheskoeZadanie.deps.json
+D:\Алексей\Проекты\на_C#\PrakticheskoeZadanie\PrakticheskoeZadanie\bin\Debug\netcoreapp3.1\PrakticheskoeZadanie.runtimeconfig.json
+D:\Алексей\Проекты\на_C#\PrakticheskoeZadanie\PrakticheskoeZadanie\bin\Debug\netcoreapp3.1\PrakticheskoeZadanie.runtimeconfig.dev.json
+D:\Алексей\Проекты\на_C#\PrakticheskoeZadanie\PrakticheskoeZadanie\bin\Debug\netcoreapp3.1\PrakticheskoeZadanie.dll
+D:\Алексей\Проекты\на_C#\PrakticheskoeZadanie\PrakticheskoeZadanie\bin\Debug\netcoreapp3.1\PrakticheskoeZadanie.pdb
+D:\Алексей\Проекты\на_C#\PrakticheskoeZadanie\PrakticheskoeZadanie\obj\Debug\netcoreapp3.1\PrakticheskoeZadanie.csprojAssemblyReference.cache
+D:\Алексей\Проекты\на_C#\PrakticheskoeZadanie\PrakticheskoeZadanie\obj\Debug\netcoreapp3.1\PrakticheskoeZadanie.AssemblyInfoInputs.cache
+D:\Алексей\Проекты\на_C#\PrakticheskoeZadanie\PrakticheskoeZadanie\obj\Debug\netcoreapp3.1\PrakticheskoeZadanie.AssemblyInfo.cs
+D:\Алексей\Проекты\на_C#\PrakticheskoeZadanie\PrakticheskoeZadanie\obj\Debug\netcoreapp3.1\PrakticheskoeZadanie.csproj.CoreCompileInputs.cache
+D:\Алексей\Проекты\на_C#\PrakticheskoeZadanie\PrakticheskoeZadanie\obj\Debug\netcoreapp3.1\PrakticheskoeZadanie.dll
+D:\Алексей\Проекты\на_C#\PrakticheskoeZadanie\PrakticheskoeZadanie\obj\Debug\netcoreapp3.1\PrakticheskoeZadanie.pdb
+D:\Алексей\Проекты\на_C#\PrakticheskoeZadanie\PrakticheskoeZadanie\obj\Debug\netcoreapp3.1\PrakticheskoeZadanie.genruntimeconfig.cache
